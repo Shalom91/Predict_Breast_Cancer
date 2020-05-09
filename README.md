@@ -1,4 +1,7 @@
-PREDICT BREAST CANCER
+PREDICT BREAST CANCER  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Shalom91/Predict_Breast_Cancer.git/master)
+
+.. image:: https://mybinder.org/badge_logo.svg
+ :target: https://mybinder.org/v2/gh/Shalom91/Predict_Breast_Cancer.git/master
 
 Answer the following questions:
 
